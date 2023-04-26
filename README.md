@@ -109,7 +109,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 
-If you like this project, don't forget add this to your inspiration list.
+If you like this project, don't forget to add this to your inspiration list.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
