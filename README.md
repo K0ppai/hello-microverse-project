@@ -56,7 +56,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 - npm
-- node.js
+- Node.js
 - Terminal
 - Code editor
 - Linters files
