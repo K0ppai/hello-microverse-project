@@ -40,7 +40,7 @@
 
 
 
-- [Live Demo Link](https://github.com/K0ppai/hello-microverse-project)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
